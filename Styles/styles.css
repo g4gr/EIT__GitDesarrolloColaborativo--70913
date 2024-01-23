@@ -1,0 +1,23 @@
+@charset 'UTF-8';
+
+:root {
+  --c_blue500 : blue ;
+}
+
+html {
+  font-size : 18px ;
+  line-height : 1.5 ;
+}
+
+header {}
+
+header section {}
+
+header section article {}
+
+header section article h1 {
+  font-size : calc( 1rem + 10px) ;
+  color : var( --c_blue500 ) ;
+
+}
+
