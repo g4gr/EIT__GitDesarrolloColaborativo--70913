@@ -9,11 +9,17 @@ html {
   line-height : 1.5 ;
 }
 
-header {}
+header {
+  height : 100vh ;
+}
 
-header section {}
+header section {
+  height : inherit ;
+}
 
-header section article {}
+header section article {
+  height : 100% ;
+}
 
 header section article h1 {
   font-size : calc( 1rem + 10px) ;
