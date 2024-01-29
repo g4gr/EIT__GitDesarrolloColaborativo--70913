@@ -13,6 +13,11 @@ header {
   height : 100vh ;
 }
 
+header nav {
+  display : grid ;
+  place-items : center ;
+}
+
 header section {
   height : inherit ;
 }
