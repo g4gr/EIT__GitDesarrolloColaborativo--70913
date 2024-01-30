@@ -2,6 +2,7 @@
 
 :root {
   --c_blue500 : blue ;
+  --c_red500 : red ;
 }
 
 html {
@@ -28,7 +29,7 @@ header section article {
 
 header section article h1 {
   font-size : calc( 1rem + 10px) ;
-  color : var( --c_blue500 ) ;
+  color : var( --c_red500 ) ;
 
 }
 
